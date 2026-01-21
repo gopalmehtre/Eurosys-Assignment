@@ -214,3 +214,4 @@ Gopal Mehtre.
 ---
 
 Built as part of a technical assignment demonstrating full-stack development, product thinking, and clean architecture.
+- NOTE : I sincerely apologize for the misspelling of the Company name I did'nt mean to. It was a silly mistake and I it will not be repeated again. I hope this does'nt affect my application.
