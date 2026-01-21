@@ -2,6 +2,10 @@
 
 A full-stack Contract Management Platform built with React, TypeScript, Node.js, and MongoDB that demonstrates blueprint creation, contract lifecycle management, and clean architecture.
 
+## Deployed Links
+- Frontend : https://eurosys-assignment-o7gj.vercel.app/
+- Backend : https://eurosys-assignment.onrender.com
+
 ## 🚀 Features
 
 - **Blueprint Builder**: Create reusable contract templates with configurable fields (Text, Date, Signature, Checkbox)
